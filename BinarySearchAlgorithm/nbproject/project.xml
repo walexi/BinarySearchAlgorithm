@@ -5,7 +5,7 @@
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
             <name>BinarySearchAlgorithm</name>
             <source-roots>
-                <root id="src.dir"/>
+                <root id="src.binarysearchalgorithm.dir"/>
             </source-roots>
             <test-roots>
                 <root id="test.src.dir"/>
